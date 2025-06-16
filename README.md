@@ -7,4 +7,4 @@
   - 🚀 CUDA/C++
   - 🐛 HLS
 
-![WanRui37's Stats](https://github-readme-stats.vercel.app/api?username=WanRui37&theme=default&show_icons=true&hide_border=true&count_private=false)
+![WanRui37's Stats](https://github-readme-stats.vercel.app/api?username=WanRui37&theme=default&show_icons=true&hide_border=true&count_private=true)
