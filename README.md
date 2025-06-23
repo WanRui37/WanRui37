@@ -7,4 +7,11 @@
   - 🚀 CUDA/C++
   - 🐛 HLS
 
-![WanRui37's Stats](https://github-readme-stats.vercel.app/api?username=WanRui37&theme=default&show_icons=true&hide_border=true&count_private=true)
+---
+
+<a href="https://github.com/Allenpandas/github-readme-stats">
+  <img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=WanRui37&repo=github-readme-stats&hide=contribs&show_icons=true&theme=tokyonight&count_private=true" />
+</a>
+<a href="https://github.com/Allenpandas/convoychat">
+  <img align="left" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WanRui37&layout=compact&theme=tokyonight&hide=Jupyter+Notebook" />
+</a>
