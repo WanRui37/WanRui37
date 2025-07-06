@@ -1,11 +1,13 @@
-### Hi I'm Wan Rui 👋
-- :school: I’m currently studying at Beijing Jiaotong University.
-- 🌱 I’m currently learning FPGA based neural network acceleration.
-- ✨ Recently I'm interested in model high-performance optimization、BNN.
-- :orange_book: Skill
-  - 🐍 Python
-  - 🚀 CUDA/C++
-  - 🐛 HLS
+### 👋 Hi I'm Wan Rui 
+:school: I’m currently studying at Beijing Jiaotong University. I'm diving deep into the intersection of hardware and AI.
+
+Recently, I've been particularly drawn to the following areas:
+- **1) LLM inference acceleration**: Optimizing LLM inference speed via quantization, kernel optimization, and parallel computing for high-throughput, low-latency deployment across hardware.  
+- **2) Model high-performance optimization**: Enhancing neural network efficiency end-to-end through algorithm adjustments (e.g., operator fusion) and hardware tuning, maximizing efficiency on resource-constrained devices.  
+- **3) Binary Neural Networks (BNN)**: Developing 1-bit neural networks to reduce computation/memory usage while preserving performance, for energy-efficient AI systems.
+
+:orange_book: **Skills**  
+- Python, C++, HLS, verilog, CUDA, Triton。
 
 ---
 
