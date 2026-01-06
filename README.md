@@ -10,15 +10,15 @@ I'm diving deep into the intersection of hardware and AI, where the synergy betw
 
 ---
 
-<a href="https://github.com/Allenpandas/convoychat">
+<a href="https://github.com/anuraghazra/convoychat">
   <img align="left" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WanRui37&layout=compact&theme=tokyonight&hide=Jupyter+Notebook" />
 </a>
 <!-- 
 
-<a href="https://github.com/Allenpandas/github-readme-stats">
+<a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=WanRui37&repo=github-readme-stats&hide=contribs&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
 </a>
-<a href="https://github.com/Allenpandas/convoychat">
+<a href="https://github.com/anuraghazra/convoychat">
   <img align="left" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WanRui37&layout=compact&theme=tokyonight&hide=Jupyter+Notebook" />
 </a>
 
