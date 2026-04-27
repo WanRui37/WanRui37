@@ -3,11 +3,9 @@
 Hardware + AI engineer focused on model-hardware co-design to deliver high-throughput, energy-efficient inference.
 
 Highlights:
-- LLM inference acceleration: quantization, kernel and operator optimization, and parallel deployment.
-- High-performance model optimization: operator fusion and hardware/compiler tuning.
-- Binary Neural Networks (BNN): 1-bit models to reduce compute and memory while retaining performance.
-
-Personal: I enjoy turning research into reproducible engineering ⚙️ — Motto: Keep it simple.
+- 🧪 **Binary Neural Networks (BNN)**: 1-bit models to reduce compute and memory while retaining performance.
+- 🔧 **High-performance model optimization**: operator fusion and hardware/compiler tuning.
+- ⚡️ **LLM inference acceleration**: quantization, kernel and operator optimization, and parallel deployment.
 
 :orange_book: **Skills**  
 `Python` `C++` `HLS` `Verilog` `CUDA` `Triton`
@@ -19,6 +17,9 @@ Personal: I enjoy turning research into reproducible engineering ⚙️ — Mott
   <img align="left" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WanRui37&layout=compact&theme=tokyonight&hide=Jupyter+Notebook" />
 </a>
 
+---
+
+[![Contribution Snake](https://activity-graph.herokuapp.com/graph?username=WanRui37&theme=react-dark&hide_border=true)](https://github.com/WanRui37)
 
 <!-- 
 
