@@ -19,7 +19,9 @@ Highlights:
 
 ---
 
-[![GitHub Snake](https://raw.githubusercontent.com/Platane/snk/master/output/WanRui37.svg)](https://github.com/WanRui37)
+![](https://raw.githubusercontent.com/WanRui37/WanRui37/output/github-contribution-grid-snake.svg)
+</td>
+<td valign="top"  width="50%">
 
 <!-- 
 
