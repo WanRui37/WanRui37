@@ -19,9 +19,9 @@ Highlights:
 
 ---
 
-![](https://raw.githubusercontent.com/WanRui37/WanRui37/output/github-contribution-grid-snake.svg)
-</td>
-<td valign="top"  width="50%">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/WanRui37/WanRui37/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+</p>
 
 <!-- 
 
