@@ -21,11 +21,11 @@ Highlights:
 
 ---
 
+<!-- 
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/WanRui37/WanRui37/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
 </p>
-
-<!-- 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=WanRui37&repo=github-readme-stats&hide=contribs&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
