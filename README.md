@@ -10,9 +10,12 @@ I'm diving deep into the intersection of hardware and AI, where the synergy betw
 
 ---
 
+<img align="left" height="150px" src="./pic/github_2.png" alt="github_local" style="margin-right:10px;" />
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="left" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WanRui37&layout=compact&theme=tokyonight&hide=Jupyter+Notebook" />
 </a>
+
+
 <!-- 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
