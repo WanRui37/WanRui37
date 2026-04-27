@@ -19,7 +19,7 @@ Highlights:
 
 ---
 
-[![Contribution Snake](https://activity-graph.herokuapp.com/graph?username=WanRui37&theme=react-dark&hide_border=true)](https://github.com/WanRui37)
+[![GitHub Snake](https://raw.githubusercontent.com/Platane/snk/master/output/WanRui37.svg)](https://github.com/WanRui37)
 
 <!-- 
 
