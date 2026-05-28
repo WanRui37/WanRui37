@@ -15,18 +15,10 @@ Highlights:
 <p>
   <img src="./pic/github_2.png" alt="github_local" height="150" style="vertical-align:middle; margin-right:10px;" />
   <a href="https://github.com/anuraghazra/convoychat">
-    <img 
-      src="./profile/stats.svg" 
-      alt="stats" 
-      style="width:350px; height:150px; vertical-align:middle;" 
-    />
+    <img src="./profile/stats.svg" alt="stats" height="150" style="vertical-align:middle;" />
   </a>
   <a href="https://github.com/anuraghazra/convoychat">
-    <img 
-      src="./profile/top-langs.svg" 
-      alt="top-langs" 
-      style="width:350px; height:150px; vertical-align:middle;" 
-    />
+    <img src="./profile/top-langs.svg" alt="top-langs" height="150" style="vertical-align:middle;" />
   </a>
 </p>
 
