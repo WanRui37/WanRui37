@@ -15,7 +15,7 @@ Highlights:
 <p>
   <img src="./pic/github_2.png" alt="github_local" height="150" style="vertical-align:middle; margin-right:10px;" />
   <a href="https://github.com/anuraghazra/convoychat">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WanRui37&layout=compact&theme=tokyonight&hide=Jupyter+Notebook" alt="Top languages" height="150" style="vertical-align:middle;" />
+    <img src="./profile/stats.svg" alt="Top languages" height="150" style="vertical-align:middle;" />
   </a>
 </p>
 
@@ -33,5 +33,4 @@ Highlights:
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="left" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WanRui37&layout=compact&theme=tokyonight&hide=Jupyter+Notebook" />
 </a>
-
 -->
